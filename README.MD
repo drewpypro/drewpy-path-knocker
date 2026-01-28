@@ -1,5 +1,5 @@
 # Drewpy Path Knocker
-A zero-trust dynamic IP whitelisting system using free public cloud resources. Friends and family visit a secret URL to register their IP, which propagates to your security controls automatically.
+A dynamic IP whitelisting system using free public cloud resources. Friends and family visit a secret URL to register their IP, which propagates to your security controls automatically.
 
 ![Architecture](img/drewpy-path-knockerv2.png)
 
@@ -17,7 +17,7 @@ A zero-trust dynamic IP whitelisting system using free public cloud resources. F
 - **Dynamic IPs Supported** - Re-register anytime
 
 ## Documentation
-- [Architecture Decision Record(ADR)][docs/adr/001-drewpy-path-knocker.md]
+- [Architecture Decision Record(ADR)][docs/001-drewpy-path-knocker-adr.md]
 
 ## Licensing
 - MIT
