@@ -1,5 +1,5 @@
 # Drewpy Path Knocker
-This document describes a Path knocker type solution using public cloud WAF resources. 
+This document describes the decision for building a URL Path knocker solution using free public cloud resources. 
 
 ---
 
