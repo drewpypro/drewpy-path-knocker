@@ -1,5 +1,5 @@
 # Drewpy Path Knocker
-A dynamic IP whitelisting system using free public cloud resources. Friends and family visit a secret URL to register their IP, which propagates to your security controls automatically.
+A dynamic IP whitelisting system using free public cloud resources. Friends and family visit a predetermined URL to register their IP, which propagates to security controls automatically.
 
 ![Architecture](img/drewpy-path-knockerv2.png)
 
@@ -11,10 +11,11 @@ A dynamic IP whitelisting system using free public cloud resources. Friends and 
 5. User can now access your services (~60s total)
 
 ## Why?
-- **No VPN Software** - browser-based registration
+- **No User Software** - browser-based registration
 - **No recurring costs** - Cloudflare free tier
 - **Audit Trail** - git history + webhook alerting
 - **Dynamic IPs Supported** - Re-register anytime
+- **Hide your VPN Headend** - Minimize VPN headend exposure
 
 ## Documentation
 - [Architecture Decision Record(ADR)][docs/001-drewpy-path-knocker-adr.md]
